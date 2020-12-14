@@ -2,7 +2,7 @@
 #include<iostream>
 
 using namespace std;
-
+//////////////////
 int func(int* input, int len) {
 	//int treelen = 1;
 	for (int i = 1; i < len; i=i*2) {
